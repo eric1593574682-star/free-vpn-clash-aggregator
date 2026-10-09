@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T05:55:28.849131+00:00",
+  "generated_at": "2026-10-09T06:06:01.362724+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -14,7 +14,7 @@
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml",
       "ok": true,
       "received": 1763,
-      "added": 527
+      "added": 528
     },
     {
       "name": "awesome-vpn/awesome-vpn",
@@ -35,7 +35,7 @@
       "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
       "ok": true,
       "received": 607,
-      "added": 524
+      "added": 522
     },
     {
       "name": "anaer/Sub",
