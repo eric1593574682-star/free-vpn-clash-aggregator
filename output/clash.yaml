@@ -11,6 +11,14 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
+- name: jp|707c|puddincat07@Telegram
+  password: u63SxILNwtrQZ7Y1ZrFaZfsA
+  port: 8443
+  server: 8.211.175.236
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - down: ''
   fingerprint: ''
   name: xx|5f1b|puddincat07@Telegram
@@ -31,32 +39,21 @@ proxies:
   sni: open.2ml.cc.cd
   tls: false
   type: hysteria2
-- auth: my_super_password_123
-  name: xx|01b0|puddincat07@Telegram
-  password: my_super_password_123
-  port: 443
-  server: open.2ml.bid
+- name: sg|0ed4|puddincat07@Telegram
+  password: f87376e17da040ed04c9665ce8972930
+  port: 50160
+  server: 138.2.73.238
   skip-cert-verify: true
-  sni: open.2ml.bid
-  type: hysteria2
-- auth: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  name: hk|b589|puddincat07@Telegram
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 202.146.222.29
-  skip-cert-verify: true
-  sni: 202.146.222.29
+  sni: 138.2.73.238
   tls: false
   type: hysteria2
-- name: sg|3afb|puddincat07@Telegram
-  obfs: salamander
-  obfs-password: 309502c4a8df10b46fb976d4a8c43f42
-  password: d042d150716709bb778cc73889cddb02
+- auth: gf1:gfhysteria2024
+  name: us|7a73|puddincat07@Telegram
+  password: gf1:gfhysteria2024
   port: 443
-  server: 138.2.89.249
+  server: 66.94.121.46
   skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
+  sni: www.broadcom.com
   type: hysteria2
 - name: xx|966a|puddincat07@Telegram
   password: dongtaiwang.com
@@ -66,12 +63,14 @@ proxies:
   sni: hy2.561891.xyz
   tls: false
   type: hysteria2
-- name: us|8fee|puddincat07@Telegram
-  password: 099830134df5ac3a04a4b21d39b8c395
-  port: 50160
-  server: 163.192.14.135
-  skip-cert-verify: true
-  sni: vk.com
+- name: xx|e7ef|puddincat07@Telegram
+  obfs: salamander
+  obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
+  password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ
+  port: 5010
+  server: nas.aizhzo.com
+  skip-cert-verify: false
+  sni: nas.aizhzo.com
   tls: false
   type: hysteria2
 - auth: 633bc3be486b646190661ac2387c150a
@@ -84,22 +83,6 @@ proxies:
   skip-cert-verify: true
   sni: www.bing.com
   type: hysteria2
-- auth: gf1:gfhysteria2024
-  name: us|7a73|puddincat07@Telegram
-  password: gf1:gfhysteria2024
-  port: 443
-  server: 66.94.121.46
-  skip-cert-verify: true
-  sni: www.broadcom.com
-  type: hysteria2
-- name: sg|0ed4|puddincat07@Telegram
-  password: f87376e17da040ed04c9665ce8972930
-  port: 50160
-  server: 138.2.73.238
-  skip-cert-verify: true
-  sni: 138.2.73.238
-  tls: false
-  type: hysteria2
 - name: us|81c2|puddincat07@Telegram
   password: 4291c983-c520-46ac-82cc-48f14bef573f
   port: 35013
@@ -108,14 +91,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: xx|e07a|puddincat07@Telegram
-  password: Trojan@82164024
-  port: 443
-  server: kr.tronsg.com
-  skip-cert-verify: true
-  sni: kr.tronsg.com
-  type: trojan
-  udp: true
 - name: ch|46cb|puddincat07@Telegram
   password: 84a506ca5aca505696a454d828420b3f
   port: 50160
@@ -124,19 +99,49 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: jp|707c|puddincat07@Telegram
-  password: u63SxILNwtrQZ7Y1ZrFaZfsA
-  port: 8443
-  server: 8.211.175.236
+- auth: gf1:gfhysteria2024
+  name: nl|7363|puddincat07@Telegram
+  password: gf1:gfhysteria2024
+  port: 443
+  server: 5.129.235.85
   skip-cert-verify: true
-  sni: bing.com
+  sni: www.linux.com
+  type: hysteria2
+- down: ''
+  fingerprint: ''
+  name: fr|3671|puddincat07@Telegram
+  obfs: ''
+  obfs-password: ''
+  password: gf1:gfhysteria2024
+  port: '443'
+  server: 173.212.201.85
+  skip-cert-verify: true
+  sni: www.docker.com
+  type: hysteria2
+  up: ''
+- name: ru|6cb0|puddincat07@Telegram
+  password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
+  port: 443
+  server: 91.196.32.163
+  skip-cert-verify: true
+  sni: germany3.h2corp.local
   tls: false
   type: hysteria2
-- name: xx|11ec|puddincat07@Telegram
-  password: 529f1911-04d5-4427-94b9-c851fd459a27
+- name: xx|30c7|puddincat07@Telegram
+  password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
   port: 443
-  server: nl-hy-test.tcp-reset-club.net
-  sni: tcp-reset-club.net
+  server: admin.wwwinternetvideo.click
+  sni: admin.wwwinternetvideo.click
+  tls: false
+  type: hysteria2
+- name: nl|a4cd|puddincat07@Telegram
+  obfs: salamander
+  obfs-password: HysteriaHowdy
+  password: HowdyHysteria2023w0W
+  port: 8443
+  server: 51.15.19.206
+  skip-cert-verify: true
+  sni: sni-here.com
   tls: false
   type: hysteria2
 - name: hysteria2-1671853509
@@ -173,6 +178,13 @@ proxies:
   server: 152.67.200.82
   skip-cert-verify: true
   sni: 152-67-200-82.liao.kdns.fr
+  type: hysteria2
+- name: hysteria2-722298610
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 202.146.222.29
+  skip-cert-verify: true
+  sni: whatsapp.com
   type: hysteria2
 - name: hysteria2-985469468
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
@@ -903,6 +915,13 @@ proxies:
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 160.187.100.109
+  skip-cert-verify: true
+  sni: ''
+  type: hysteria2
+- name: hysteria2-1547179636
+  password: my_super_password_123
+  port: 443
+  server: open.2ml.bid
   skip-cert-verify: true
   sni: ''
   type: hysteria2
@@ -1940,6 +1959,13 @@ proxies:
   type: vmess
   udp: true
   uuid: f8c8dc3d-0d37-46b0-8b34-a7232882fcfe
+- name: hysteria2-918221107
+  password: 099830134df5ac3a04a4b21d39b8c395
+  port: 50160
+  server: 163.192.14.135
+  skip-cert-verify: true
+  sni: speedtest.tinkoff.ru
+  type: hysteria2
 - name: hysteria2-1739751107
   password: H7mP2xY9kJ4nQ9wR5tF6vB3z
   port: 443
@@ -2554,6 +2580,13 @@ proxies:
   server: 152.70.237.123
   skip-cert-verify: true
   sni: 152.70.237.123
+  type: hysteria2
+- name: hysteria2-1668124763
+  password: 529f1911-04d5-4427-94b9-c851fd459a27
+  port: 443
+  server: nl-hy-test.tcp-reset-club.net
+  skip-cert-verify: true
+  sni: tcp-reset-club.net
   type: hysteria2
 - cipher: rc4-md5
   name: shadowsocks-125384
@@ -4763,55 +4796,6 @@ proxies:
   type: vless
   udp: true
   uuid: f0466557-2fd5-442e-94cb-12c6b764155e
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: vless-1593680572
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q
-    short-id: 9e4eced6e98ed4d4
-  server: 130.17.25.67
-  servername: github.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 1c5ed2e1-56da-41ab-9a78-159d9892ec17
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: vless-656232751
-  network: tcp
-  port: 23576
-  reality-opts:
-    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: '01'
-  server: 62.210.91.2
-  servername: fuck.rkn
-  tls: true
-  type: vless
-  udp: true
-  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: vless-83842750
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8
-    short-id: 15affa0af66dfc79
-  server: 130.12.242.106
-  servername: deepl.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: bc058e69-0444-4c7b-98da-bd67f0b143da
-- name: vless-1763055066
-  network: raw
-  port: 8080
-  server: milo.rubinaz.xyz
-  type: vless
-  udp: true
-  uuid: 6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8
 proxy-groups:
 - name: AUTO
   type: url-test
@@ -4820,26 +4804,27 @@ proxy-groups:
   tolerance: 50
   proxies:
   - xx|febb|puddincat07@Telegram
+  - jp|707c|puddincat07@Telegram
   - xx|5f1b|puddincat07@Telegram
   - jp|a89b|puddincat07@Telegram
-  - xx|01b0|puddincat07@Telegram
-  - hk|b589|puddincat07@Telegram
-  - sg|3afb|puddincat07@Telegram
-  - xx|966a|puddincat07@Telegram
-  - us|8fee|puddincat07@Telegram
-  - au|c385|puddincat07@Telegram
-  - us|7a73|puddincat07@Telegram
   - sg|0ed4|puddincat07@Telegram
+  - us|7a73|puddincat07@Telegram
+  - xx|966a|puddincat07@Telegram
+  - xx|e7ef|puddincat07@Telegram
+  - au|c385|puddincat07@Telegram
   - us|81c2|puddincat07@Telegram
-  - xx|e07a|puddincat07@Telegram
   - ch|46cb|puddincat07@Telegram
-  - jp|707c|puddincat07@Telegram
-  - xx|11ec|puddincat07@Telegram
+  - nl|7363|puddincat07@Telegram
+  - fr|3671|puddincat07@Telegram
+  - ru|6cb0|puddincat07@Telegram
+  - xx|30c7|puddincat07@Telegram
+  - nl|a4cd|puddincat07@Telegram
   - hysteria2-1671853509
   - hysteria2-1059661404
   - hysteria2-1773076412
   - hysteria2-1738559724
   - hysteria2-553326952
+  - hysteria2-722298610
   - hysteria2-985469468
   - hysteria2-1758941476
   - hysteria2-1701029218
@@ -4930,6 +4915,7 @@ proxy-groups:
   - hysteria2-1333159811
   - hysteria2-1101789988
   - hysteria2-468892432
+  - hysteria2-1547179636
   - shadowsocks-211
   - shadowsocks-287
   - shadowsocks-196
@@ -5040,6 +5026,7 @@ proxy-groups:
   - vmess-923366306
   - vmess-1570694865
   - vmess-145236
+  - hysteria2-918221107
   - hysteria2-1739751107
   - shadowsocks-1746935301
   - shadowsocks-468218613
@@ -5096,6 +5083,7 @@ proxy-groups:
   - hysteria2-1756083247
   - hysteria2-212133054
   - hysteria2-1706937294
+  - hysteria2-1668124763
   - shadowsocks-125384
   - shadowsocks-1792117694
   - shadowsocks-193
@@ -5315,36 +5303,33 @@ proxy-groups:
   - vless-1532046244
   - vless-1758300922
   - vless-1790446962
-  - vless-1593680572
-  - vless-656232751
-  - vless-83842750
-  - vless-1763055066
 - name: PROXY
   type: select
   proxies:
   - AUTO
   - DIRECT
   - xx|febb|puddincat07@Telegram
+  - jp|707c|puddincat07@Telegram
   - xx|5f1b|puddincat07@Telegram
   - jp|a89b|puddincat07@Telegram
-  - xx|01b0|puddincat07@Telegram
-  - hk|b589|puddincat07@Telegram
-  - sg|3afb|puddincat07@Telegram
-  - xx|966a|puddincat07@Telegram
-  - us|8fee|puddincat07@Telegram
-  - au|c385|puddincat07@Telegram
-  - us|7a73|puddincat07@Telegram
   - sg|0ed4|puddincat07@Telegram
+  - us|7a73|puddincat07@Telegram
+  - xx|966a|puddincat07@Telegram
+  - xx|e7ef|puddincat07@Telegram
+  - au|c385|puddincat07@Telegram
   - us|81c2|puddincat07@Telegram
-  - xx|e07a|puddincat07@Telegram
   - ch|46cb|puddincat07@Telegram
-  - jp|707c|puddincat07@Telegram
-  - xx|11ec|puddincat07@Telegram
+  - nl|7363|puddincat07@Telegram
+  - fr|3671|puddincat07@Telegram
+  - ru|6cb0|puddincat07@Telegram
+  - xx|30c7|puddincat07@Telegram
+  - nl|a4cd|puddincat07@Telegram
   - hysteria2-1671853509
   - hysteria2-1059661404
   - hysteria2-1773076412
   - hysteria2-1738559724
   - hysteria2-553326952
+  - hysteria2-722298610
   - hysteria2-985469468
   - hysteria2-1758941476
   - hysteria2-1701029218
@@ -5435,6 +5420,7 @@ proxy-groups:
   - hysteria2-1333159811
   - hysteria2-1101789988
   - hysteria2-468892432
+  - hysteria2-1547179636
   - shadowsocks-211
   - shadowsocks-287
   - shadowsocks-196
@@ -5545,6 +5531,7 @@ proxy-groups:
   - vmess-923366306
   - vmess-1570694865
   - vmess-145236
+  - hysteria2-918221107
   - hysteria2-1739751107
   - shadowsocks-1746935301
   - shadowsocks-468218613
@@ -5601,6 +5588,7 @@ proxy-groups:
   - hysteria2-1756083247
   - hysteria2-212133054
   - hysteria2-1706937294
+  - hysteria2-1668124763
   - shadowsocks-125384
   - shadowsocks-1792117694
   - shadowsocks-193
@@ -5820,9 +5808,5 @@ proxy-groups:
   - vless-1532046244
   - vless-1758300922
   - vless-1790446962
-  - vless-1593680572
-  - vless-656232751
-  - vless-83842750
-  - vless-1763055066
 rules:
 - MATCH,PROXY
