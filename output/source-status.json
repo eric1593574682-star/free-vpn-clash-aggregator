@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T09:11:03.643233+00:00",
+  "generated_at": "2026-10-14T09:39:18.155678+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -13,7 +13,7 @@
       "name": "Au1rxx/free-vpn-subscriptions",
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml",
       "ok": true,
-      "received": 1774,
+      "received": 1785,
       "added": 504
     },
     {
