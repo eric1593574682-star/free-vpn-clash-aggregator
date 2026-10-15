@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:38:30.162498+00:00",
+  "generated_at": "2026-10-15T18:06:28.285582+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -35,7 +35,7 @@
       "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
       "ok": true,
       "received": 519,
-      "added": 400
+      "added": 399
     },
     {
       "name": "anaer/Sub",
