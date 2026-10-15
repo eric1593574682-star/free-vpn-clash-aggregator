@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T06:46:12.983208+00:00",
+  "generated_at": "2026-10-15T07:28:43.183636+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -70,7 +70,7 @@
       "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml",
       "ok": true,
       "received": 144,
-      "added": 4
+      "added": 3
     }
   ]
 }
