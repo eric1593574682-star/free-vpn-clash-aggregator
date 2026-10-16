@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:37:47.514304+00:00",
+  "generated_at": "2026-10-16T16:09:41.994914+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -48,15 +48,15 @@
       "name": "ermaozi01/free_clash_vpn",
       "url": "https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml",
       "ok": true,
-      "received": 11,
-      "added": 8
+      "received": 4,
+      "added": 0
     },
     {
       "name": "peasoft/NoMoreWalls",
       "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml",
       "ok": true,
-      "received": 128,
-      "added": 0
+      "received": 143,
+      "added": 20
     },
     {
       "name": "NiceVPN123/NiceVPN",
