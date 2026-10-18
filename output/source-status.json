@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T08:35:33.405927+00:00",
+  "generated_at": "2026-10-18T09:02:58.792283+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -13,8 +13,8 @@
       "name": "Au1rxx/free-vpn-subscriptions",
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml",
       "ok": true,
-      "received": 1919,
-      "added": 902
+      "received": 1920,
+      "added": 892
     },
     {
       "name": "awesome-vpn/awesome-vpn",
