@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T13:49:45.628058+00:00",
+  "generated_at": "2026-10-18T14:10:50.736460+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -41,8 +41,8 @@
       "name": "anaer/Sub",
       "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml",
       "ok": true,
-      "received": 567,
-      "added": 554
+      "received": 1559,
+      "added": 1373
     },
     {
       "name": "ermaozi01/free_clash_vpn",
@@ -63,7 +63,7 @@
       "url": "https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml",
       "ok": true,
       "received": 3646,
-      "added": 3130
+      "added": 3142
     },
     {
       "name": "chengaopan/AutoMergePublicNodes",
