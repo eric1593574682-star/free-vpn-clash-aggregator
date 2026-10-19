@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:58:29.919265+00:00",
+  "generated_at": "2026-10-19T12:27:00.863906+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -14,7 +14,7 @@
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml",
       "ok": true,
       "received": 1717,
-      "added": 766
+      "added": 741
     },
     {
       "name": "awesome-vpn/awesome-vpn",
@@ -35,14 +35,14 @@
       "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
       "ok": true,
       "received": 590,
-      "added": 478
+      "added": 481
     },
     {
       "name": "anaer/Sub",
       "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml",
       "ok": true,
       "received": 1559,
-      "added": 1403
+      "added": 1407
     },
     {
       "name": "ermaozi01/free_clash_vpn",
@@ -55,7 +55,7 @@
       "name": "peasoft/NoMoreWalls",
       "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml",
       "ok": true,
-      "received": 120,
+      "received": 113,
       "added": 4
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml",
       "ok": true,
       "received": 120,
-      "added": 1
+      "added": 5
     }
   ]
 }
