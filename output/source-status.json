@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:20:20.284578+00:00",
+  "generated_at": "2026-10-19T20:56:21.524549+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -55,8 +55,8 @@
       "name": "peasoft/NoMoreWalls",
       "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml",
       "ok": true,
-      "received": 113,
-      "added": 0
+      "received": 112,
+      "added": 12
     },
     {
       "name": "NiceVPN123/NiceVPN",
@@ -69,7 +69,7 @@
       "name": "chengaopan/AutoMergePublicNodes",
       "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml",
       "ok": true,
-      "received": 113,
+      "received": 112,
       "added": 0
     }
   ]
