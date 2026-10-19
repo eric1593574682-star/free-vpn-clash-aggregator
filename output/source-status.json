@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T16:41:29.117783+00:00",
+  "generated_at": "2026-10-19T17:10:13.352159+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -41,8 +41,8 @@
       "name": "anaer/Sub",
       "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml",
       "ok": true,
-      "received": 1559,
-      "added": 1417
+      "received": 1576,
+      "added": 1390
     },
     {
       "name": "ermaozi01/free_clash_vpn",
