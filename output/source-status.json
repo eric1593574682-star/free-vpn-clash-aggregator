@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:37:19.026279+00:00",
+  "generated_at": "2026-10-19T18:05:26.318005+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -48,8 +48,8 @@
       "name": "ermaozi01/free_clash_vpn",
       "url": "https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml",
       "ok": true,
-      "received": 11,
-      "added": 4
+      "received": 6,
+      "added": 0
     },
     {
       "name": "peasoft/NoMoreWalls",
