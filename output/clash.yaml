@@ -4501,85 +4501,19 @@ proxies:
   type: vmess
   udp: true
   uuid: 0cf6d970-3f1d-4aae-a989-92a8f76ae3db
-- name: 🇩🇪 Germany [TG]
+- name: 🇺🇸 United States [TG]
   type: vless
-  server: 169.40.42.133
+  server: 47.253.226.114
   port: 443
-  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
+  uuid: 055a1ce8-2a16-4a0d-a2c2-22826c9b2413
   udp: true
   flow: xtls-rprx-vision
   tls: true
-  servername: yahoo.com
+  servername: www.cloudflare.com
   reality-opts:
-    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
-    short-id: c39cc7310a
-  client-fingerprint: ios
-- name: '🇩🇪 Germany [TG] #4'
-  type: vless
-  server: 169.40.42.95
-  port: 443
-  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  servername: yahoo.com
-  reality-opts:
-    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
-    short-id: c39cc7310a
-  client-fingerprint: ios
-- name: '🇩🇪 Germany [TG] #5'
-  type: vless
-  server: 169.40.42.212
-  port: 443
-  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  servername: yahoo.com
-  reality-opts:
-    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
-    short-id: c39cc7310a
+    public-key: Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc
   client-fingerprint: chrome
-- name: '🇩🇪 Germany [TG] #6'
-  type: vless
-  server: 169.40.42.179
-  port: 443
-  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  servername: yahoo.com
-  reality-opts:
-    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
-    short-id: c39cc7310a
-  client-fingerprint: ios
-- name: 🇩🇪 Germany/Frankfurt am Main [TG]
-  type: vless
-  server: 31.76.35.27
-  port: 443
-  uuid: 4d852af3-a121-41aa-9aed-4ca40a6f7b4d
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  servername: addons.mozilla.org
-  reality-opts:
-    public-key: P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s
-    short-id: b76a6309
-  client-fingerprint: chrome
-- name: '🇩🇪 Germany [TG] #8'
-  type: vless
-  server: 169.40.42.182
-  port: 443
-  uuid: d65cc14c-f53f-4fe2-b262-97856601319c
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  servername: yahoo.com
-  reality-opts:
-    public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg
-    short-id: c39cc7310a
-  client-fingerprint: ios
-- name: 🇺🇸 United States/San Francisco [TG]
+- name: '🇺🇸 United States/San Francisco [TG] #3'
   type: vless
   server: b2n.ir
   port: 443
@@ -4589,120 +4523,46 @@ proxies:
   servername: lucasjow.us.ci
   network: ws
   ws-opts:
-    path: /cart/docs/www/proxyip=108.160.132.132?ed#Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN
+    path: /cart/docs/www/proxyip=108.160.132.132?ed#TELEGRAM---@MTMVPN---@MTMVPN---@MTMVPN---@MTMVPN
     headers:
       Host: lucasjow.us.ci
-- name: 🌍 CR/Uruca [TG]
-  type: trojan
-  server: 190.93.245.148
-  port: 443
-  password: humanity
+- name: '🇺🇸 United States/Hillsboro [TG] #3'
+  type: vless
+  server: 15.204.97.197
+  port: 23576
+  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
   udp: true
-  sni: www.pleadcourt.org
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.pleadcourt.org
-- name: '🇺🇸 United States/San Francisco [TG] #2'
-  type: trojan
-  server: 108.162.194.134
-  port: 443
-  password: humanity
-  udp: true
-  sni: www.pleadcourt.org
-  network: ws
-  ws-opts:
-    path: /assignment
-    headers:
-      Host: www.pleadcourt.org
+  flow: xtls-rprx-vision
+  tls: true
+  servername: fuck.rkn
+  reality-opts:
+    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
+    short-id: '01'
+  client-fingerprint: chrome
 - name: '🇺🇸 United States/San Francisco [TG] #5'
   type: vless
-  server: 172.67.130.187
-  port: 2083
-  uuid: 2b8738de-1af5-4267-b101-c05707769ed4
+  server: cf-vless-4cf55824.aimall.fr
+  port: 443
+  uuid: ea50b1a3-3a98-4c5e-a150-48ada40d68d7
   udp: true
   tls: true
-  servername: fans.liverpool.qzz.io
+  servername: cf-vless-4cf55824.aimall.fr
   network: ws
   ws-opts:
-    path: /eyJqdW5rIjoiY0Y0cENQUmxsNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=
+    path: /connect
     headers:
-      Host: fans.liverpool.qzz.io
-- name: 🇳🇱 The Netherlands/Haarlem [TG]
-  type: vless
-  server: 51.158.206.96
-  port: 23576
-  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  servername: fuck.rkn
-  reality-opts:
-    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: '01'
-  client-fingerprint: chrome
-- name: '🇳🇱 The Netherlands/Haarlem [TG] #2'
-  type: vless
-  server: 51.158.206.8
-  port: 23576
-  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  servername: fuck.rkn
-  reality-opts:
-    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: '01'
-  client-fingerprint: chrome
-- name: 🇫🇷 France [TG]
-  type: vless
-  server: rgiw5k0gg5-1492025789-direct.kheibarr.com
-  port: 443
-  uuid: rgiw5k0gg5
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  servername: rgiw5k0gg5-1492025789-direct.kheibarr.com
-- name: '🇺🇸 United States/San Francisco [TG] #6'
-  type: vless
-  server: cf-socks.caoyuwu.eu.org
-  port: 443
-  uuid: 9cdcbaf0-d244-4f37-b227-90166e43f5b5
-  udp: true
-  tls: true
-  servername: cf-socks.caoyuwu.eu.org
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: cf-socks.caoyuwu.eu.org
+      Host: cf-vless-4cf55824.aimall.fr
 - name: '🇺🇸 United States/San Francisco [TG] #7'
   type: vless
-  server: 172.67.65.56
-  port: 2053
-  uuid: 099244b9-2168-4dbd-870e-cbbe9d6eb573
+  server: 104.18.0.181
+  port: 2082
+  uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b
   udp: true
-  tls: true
-  servername: whitecreeper.pages.dev
   network: ws
   ws-opts:
-    path: /proxyip
+    path: /fp
     headers:
-      Host: whitecreeper.pages.dev
-- name: '🇳🇱 The Netherlands/Haarlem [TG] #3'
-  type: vless
-  server: 51.158.206.20
-  port: 23576
-  uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  servername: fuck.rkn
-  reality-opts:
-    public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s
-    short-id: '01'
-  client-fingerprint: chrome
+      Host: hhlfy.twiladaphne.ndjp.net
 - name: '🇺🇸 United States/San Francisco [TG] #8'
   type: vless
   server: 172.64.150.28
@@ -4714,27 +4574,7 @@ proxies:
     path: /fp
     headers:
       Host: hhlfy.twiladaphne.ndjp.net
-- name: '🇫🇷 France [TG] #2'
-  type: vless
-  server: 149.202.57.89
-  port: 443
-  uuid: rgiw5k0gg5
-  udp: true
-  flow: xtls-rprx-vision
-  tls: true
-  servername: rgiw5k0gg5-1492025789-direct.kheibarr.com
 - name: '🇺🇸 United States/San Francisco [TG] #9'
-  type: vless
-  server: 104.18.0.181
-  port: 2082
-  uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b
-  udp: true
-  network: ws
-  ws-opts:
-    path: /fp
-    headers:
-      Host: hhlfy.twiladaphne.ndjp.net
-- name: '🇺🇸 United States/San Francisco [TG] #10'
   type: vless
   server: www.iplocation.net
   port: 8080
@@ -4745,56 +4585,25 @@ proxies:
     path: /
     headers:
       Host: n23odi-jolly-sound-f784.mbkl61es.workers.dev
-- name: 🇮🇹 Italy/Siziano [TG]
-  type: vless
-  server: 204.216.216.23
-  port: 10086
-  uuid: 9f0285ee-20ca-4953-bcdb-86a920652923
-  udp: true
-- name: '🇩🇪 Germany/Frankfurt am Main [TG] #3'
-  type: vless
-  server: 31.77.148.89
-  port: 45021
-  uuid: ad263f1c-199e-4aaf-bf22-c3ad0407d377
-  udp: true
-- name: 🇺🇸 United States/Dallas [TG]
-  type: vless
-  server: 3h-unitedstates1.09vpn.com
-  port: 80
-  uuid: 18cf8db1-9f86-43f7-baa0-382efb7f2dfa
-  udp: true
-  network: ws
-  ws-opts:
-    path: /vless/
-    headers:
-      Host: 3h-unitedstates1.09vpn.com
-- name: 🇺🇸 United States/New York [GH:Mahdi0024/Pro]
+- name: 🇺🇸 United States/New York [TG]
   type: ss
   server: 37.19.198.160
   port: 443
   password: shadowsocks
   cipher: aes-128-gcm
   udp: true
-- name: '🇺🇸 United States/Phoenix [GH:Mahdi0024/Pro] #2'
-  type: ss
-  server: 173.244.56.6
-  port: 443
-  password: shadowsocks
-  cipher: aes-128-gcm
+- name: 🇩🇪 Germany/Frankfurt am Main [TG]
+  type: vless
+  server: 31.77.148.89
+  port: 45021
+  uuid: ad263f1c-199e-4aaf-bf22-c3ad0407d377
   udp: true
-- name: 🇺🇸 United States/Los Angeles [GH:Mahdi0024/Pro]
+- name: 🇨🇭 Switzerland/Zurich [TG]
   type: ss
-  server: 216.105.168.18
-  port: 443
-  password: hCCWOcIsK5wrFz4OX70rWf
+  server: 132.243.175.144
+  port: 8388
+  password: e8KgS8fD0yDqYFpgN4G5piCOt9aFyqA3
   cipher: chacha20-ietf-poly1305
-  udp: true
-- name: 🇺🇸 United States/Reston [GH:Mahdi0024/Pro]
-  type: ss
-  server: 15.204.246.132
-  port: 7307
-  password: FoOiGlkAA9yPEGP
-  cipher: aes-256-gcm
   udp: true
 - name: SS-加拿大>英国-NF解锁英国地区非自制剧-ChatGPT-144.217.164.29:12000
   type: ss
@@ -5166,6 +4975,189 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
+- name: 🇺🇸_US_美国->🇭🇰_HK_中国香港
+  type: vless
+  server: nvl-edge-dr-141026.pages.dev
+  port: 8443
+  uuid: ed0b0682-5734-4a50-8728-db68d44a1b94
+  network: ws
+  servername: nvl-edge-dr-141026.pages.dev
+  tls: true
+  client-fingerprint: firefox
+  ws-opts:
+    path: /proxyip=ProxyIP.HK.CMLiussss.Net
+    headers:
+      Host: nvl-edge-dr-141026.pages.dev
+  skip-cert-verify: true
+  udp: true
+- name: 🇨🇳_CN_中国->🇯🇵_JP_日本
+  type: vmess
+  server: v6.hdacd.com
+  port: 30806
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  alterId: 2
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: 🇨🇳_CN_中国
+  type: vmess
+  server: 120.48.133.162
+  port: 10086
+  uuid: 4fc543d5-23ce-4556-ae2b-01685edd4397
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  udp: true
+- name: 🇨🇳_CN_中国->🇬🇧_GB_英国
+  type: vmess
+  server: v36.hdacd.com
+  port: 30836
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  alterId: 2
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: 🇺🇸_US_美国->🇭🇰_HK_中国香港_1
+  type: vless
+  server: nvl-edge-dr-141026.pages.dev
+  port: 2053
+  uuid: ed0b0682-5734-4a50-8728-db68d44a1b94
+  network: ws
+  servername: nvl-edge-dr-141026.pages.dev
+  tls: true
+  client-fingerprint: chrome
+  ws-opts:
+    path: /proxyip=ProxyIP.HK.CMLiussss.Net
+    headers:
+      Host: nvl-edge-dr-141026.pages.dev
+  skip-cert-verify: true
+  udp: true
+- name: 🇳🇱_NL_荷兰
+  type: vless
+  server: 31.57.185.220
+  port: 443
+  uuid: 2e2e204a-7e61-48fb-8182-5955821e8da0
+  network: ws
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: 🇨🇳_CN_中国->🇮🇪_IE_爱尔兰
+  type: vmess
+  server: v4.hdacd.com
+  port: 30804
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  alterId: 2
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: 🇨🇳_CN_中国_1
+  type: vmess
+  server: 112.132.215.108
+  port: 50002
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  alterId: 64
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: 🇺🇸_US_美国->🇬🇧_GB_英国
+  type: vless
+  server: nvl-edge-dr-141026.pages.dev
+  port: 2083
+  uuid: ed0b0682-5734-4a50-8728-db68d44a1b94
+  network: ws
+  servername: nvl-edge-dr-141026.pages.dev
+  tls: true
+  client-fingerprint: chrome
+  ws-opts:
+    path: /proxyip=ProxyIP.GB.CMLiussss.Net
+    headers:
+      Host: nvl-edge-dr-141026.pages.dev
+  skip-cert-verify: true
+  udp: true
+- name: 🇺🇸_US_美国->🇬🇧_GB_英国_1
+  type: vless
+  server: nvl-edge-dr-141026.pages.dev
+  port: 2087
+  uuid: ed0b0682-5734-4a50-8728-db68d44a1b94
+  network: ws
+  servername: nvl-edge-dr-141026.pages.dev
+  tls: true
+  client-fingerprint: chrome
+  ws-opts:
+    path: /proxyip=ProxyIP.GB.CMLiussss.Net
+    headers:
+      Host: nvl-edge-dr-141026.pages.dev
+  skip-cert-verify: true
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 防范境外势力渗透
+  network: tcp
+  port: 80
+  server: 127.0.0.53
+  tls: false
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+- alterId: 0
+  cipher: auto
+  name: '防范境外势力渗透 #1'
+  network: tcp
+  port: 81
+  server: 127.0.0.53
+  tls: false
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+- alterId: 0
+  cipher: auto
+  name: '防范境外势力渗透 #2'
+  network: tcp
+  port: 82
+  server: 127.0.0.53
+  tls: false
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+- alterId: 0
+  cipher: auto
+  name: '防范境外势力渗透 #3'
+  network: tcp
+  port: 83
+  server: 127.0.0.53
+  tls: false
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+- alterId: 0
+  cipher: auto
+  name: '防范境外势力渗透 #4'
+  network: tcp
+  port: 84
+  server: 127.0.0.53
+  tls: false
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+- alterId: 0
+  cipher: auto
+  name: '防范境外势力渗透 #5'
+  network: tcp
+  port: 85
+  server: 127.0.0.53
+  tls: false
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
+- alterId: 0
+  cipher: auto
+  name: '防范境外势力渗透 #6'
+  network: tcp
+  port: 86
+  server: 127.0.0.53
+  tls: false
+  type: vmess
+  uuid: 88888888-8888-8888-8888-888888888888
 proxy-groups:
 - name: AUTO
   type: url-test
@@ -5613,33 +5605,16 @@ proxy-groups:
   - vless-1827531202
   - vmess-1853465799
   - vmess-1853463201
-  - 🇩🇪 Germany [TG]
-  - '🇩🇪 Germany [TG] #4'
-  - '🇩🇪 Germany [TG] #5'
-  - '🇩🇪 Germany [TG] #6'
-  - 🇩🇪 Germany/Frankfurt am Main [TG]
-  - '🇩🇪 Germany [TG] #8'
-  - 🇺🇸 United States/San Francisco [TG]
-  - 🌍 CR/Uruca [TG]
-  - '🇺🇸 United States/San Francisco [TG] #2'
+  - 🇺🇸 United States [TG]
+  - '🇺🇸 United States/San Francisco [TG] #3'
+  - '🇺🇸 United States/Hillsboro [TG] #3'
   - '🇺🇸 United States/San Francisco [TG] #5'
-  - 🇳🇱 The Netherlands/Haarlem [TG]
-  - '🇳🇱 The Netherlands/Haarlem [TG] #2'
-  - 🇫🇷 France [TG]
-  - '🇺🇸 United States/San Francisco [TG] #6'
   - '🇺🇸 United States/San Francisco [TG] #7'
-  - '🇳🇱 The Netherlands/Haarlem [TG] #3'
   - '🇺🇸 United States/San Francisco [TG] #8'
-  - '🇫🇷 France [TG] #2'
   - '🇺🇸 United States/San Francisco [TG] #9'
-  - '🇺🇸 United States/San Francisco [TG] #10'
-  - 🇮🇹 Italy/Siziano [TG]
-  - '🇩🇪 Germany/Frankfurt am Main [TG] #3'
-  - 🇺🇸 United States/Dallas [TG]
-  - 🇺🇸 United States/New York [GH:Mahdi0024/Pro]
-  - '🇺🇸 United States/Phoenix [GH:Mahdi0024/Pro] #2'
-  - 🇺🇸 United States/Los Angeles [GH:Mahdi0024/Pro]
-  - 🇺🇸 United States/Reston [GH:Mahdi0024/Pro]
+  - 🇺🇸 United States/New York [TG]
+  - 🇩🇪 Germany/Frankfurt am Main [TG]
+  - 🇨🇭 Switzerland/Zurich [TG]
   - SS-加拿大>英国-NF解锁英国地区非自制剧-ChatGPT-144.217.164.29:12000
   - VMESS-未知>德国-NF解锁印度地区非自制剧-ChatGPT-TikTok-YouTube-547.rtxconfigz.shop:8080
   - VMESS-美国>日本-NF解锁日本地区非自制剧-ChatGPT-YouTube-t1.620720.xyz:8443
@@ -5673,6 +5648,23 @@ proxy-groups:
   - 🇷🇺_RU_俄罗斯->🇩🇪_DE_德国
   - 🇨🇳_CN_中国->🇺🇸_US_美国
   - 🇨🇳_CN_中国->🇺🇸_US_美国_1
+  - 🇺🇸_US_美国->🇭🇰_HK_中国香港
+  - 🇨🇳_CN_中国->🇯🇵_JP_日本
+  - 🇨🇳_CN_中国
+  - 🇨🇳_CN_中国->🇬🇧_GB_英国
+  - 🇺🇸_US_美国->🇭🇰_HK_中国香港_1
+  - 🇳🇱_NL_荷兰
+  - 🇨🇳_CN_中国->🇮🇪_IE_爱尔兰
+  - 🇨🇳_CN_中国_1
+  - 🇺🇸_US_美国->🇬🇧_GB_英国
+  - 🇺🇸_US_美国->🇬🇧_GB_英国_1
+  - 防范境外势力渗透
+  - '防范境外势力渗透 #1'
+  - '防范境外势力渗透 #2'
+  - '防范境外势力渗透 #3'
+  - '防范境外势力渗透 #4'
+  - '防范境外势力渗透 #5'
+  - '防范境外势力渗透 #6'
 - name: PROXY
   type: select
   proxies:
@@ -6118,33 +6110,16 @@ proxy-groups:
   - vless-1827531202
   - vmess-1853465799
   - vmess-1853463201
-  - 🇩🇪 Germany [TG]
-  - '🇩🇪 Germany [TG] #4'
-  - '🇩🇪 Germany [TG] #5'
-  - '🇩🇪 Germany [TG] #6'
-  - 🇩🇪 Germany/Frankfurt am Main [TG]
-  - '🇩🇪 Germany [TG] #8'
-  - 🇺🇸 United States/San Francisco [TG]
-  - 🌍 CR/Uruca [TG]
-  - '🇺🇸 United States/San Francisco [TG] #2'
+  - 🇺🇸 United States [TG]
+  - '🇺🇸 United States/San Francisco [TG] #3'
+  - '🇺🇸 United States/Hillsboro [TG] #3'
   - '🇺🇸 United States/San Francisco [TG] #5'
-  - 🇳🇱 The Netherlands/Haarlem [TG]
-  - '🇳🇱 The Netherlands/Haarlem [TG] #2'
-  - 🇫🇷 France [TG]
-  - '🇺🇸 United States/San Francisco [TG] #6'
   - '🇺🇸 United States/San Francisco [TG] #7'
-  - '🇳🇱 The Netherlands/Haarlem [TG] #3'
   - '🇺🇸 United States/San Francisco [TG] #8'
-  - '🇫🇷 France [TG] #2'
   - '🇺🇸 United States/San Francisco [TG] #9'
-  - '🇺🇸 United States/San Francisco [TG] #10'
-  - 🇮🇹 Italy/Siziano [TG]
-  - '🇩🇪 Germany/Frankfurt am Main [TG] #3'
-  - 🇺🇸 United States/Dallas [TG]
-  - 🇺🇸 United States/New York [GH:Mahdi0024/Pro]
-  - '🇺🇸 United States/Phoenix [GH:Mahdi0024/Pro] #2'
-  - 🇺🇸 United States/Los Angeles [GH:Mahdi0024/Pro]
-  - 🇺🇸 United States/Reston [GH:Mahdi0024/Pro]
+  - 🇺🇸 United States/New York [TG]
+  - 🇩🇪 Germany/Frankfurt am Main [TG]
+  - 🇨🇭 Switzerland/Zurich [TG]
   - SS-加拿大>英国-NF解锁英国地区非自制剧-ChatGPT-144.217.164.29:12000
   - VMESS-未知>德国-NF解锁印度地区非自制剧-ChatGPT-TikTok-YouTube-547.rtxconfigz.shop:8080
   - VMESS-美国>日本-NF解锁日本地区非自制剧-ChatGPT-YouTube-t1.620720.xyz:8443
@@ -6178,5 +6153,22 @@ proxy-groups:
   - 🇷🇺_RU_俄罗斯->🇩🇪_DE_德国
   - 🇨🇳_CN_中国->🇺🇸_US_美国
   - 🇨🇳_CN_中国->🇺🇸_US_美国_1
+  - 🇺🇸_US_美国->🇭🇰_HK_中国香港
+  - 🇨🇳_CN_中国->🇯🇵_JP_日本
+  - 🇨🇳_CN_中国
+  - 🇨🇳_CN_中国->🇬🇧_GB_英国
+  - 🇺🇸_US_美国->🇭🇰_HK_中国香港_1
+  - 🇳🇱_NL_荷兰
+  - 🇨🇳_CN_中国->🇮🇪_IE_爱尔兰
+  - 🇨🇳_CN_中国_1
+  - 🇺🇸_US_美国->🇬🇧_GB_英国
+  - 🇺🇸_US_美国->🇬🇧_GB_英国_1
+  - 防范境外势力渗透
+  - '防范境外势力渗透 #1'
+  - '防范境外势力渗透 #2'
+  - '防范境外势力渗透 #3'
+  - '防范境外势力渗透 #4'
+  - '防范境外势力渗透 #5'
+  - '防范境外势力渗透 #6'
 rules:
 - MATCH,PROXY
